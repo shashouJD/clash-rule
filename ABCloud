@@ -21,7 +21,6 @@ surge_ruleset=📢 谷歌FCM,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/m
 surge_ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
 surge_ruleset=📲 电报消息,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
 surge_ruleset=📹 油管视频,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
-surge_ruleset=🎥 奈飞视频,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list
 surge_ruleset=📺 巴哈姆特,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bahamut.list
 surge_ruleset=🌏 国内媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list
 surge_ruleset=🌍 国外媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
@@ -46,7 +45,6 @@ custom_proxy_group=🌍 国外媒体`select`[]🚀 节点选择`[]🇭🇰 香�
 custom_proxy_group=🌏 国内媒体`select`[]DIRECT`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇳 其它节点`[]🚀 手动切换
 custom_proxy_group=🌏 出海媒体`select`[]DIRECT`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇳 其它节点`[]🚀 手动切换
 custom_proxy_group=📢 谷歌FCM`select`[]DIRECT`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇰🇷 韩国节点`[]🇸🇬 狮城节点`[]🇺🇲 美国节点`[]🇺🇳 其它节点`[]🚀 手动切换
-custom_proxy_group=🎥 奈飞视频`select`[]🎥 奈飞节点`[]DIRECT
 custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]🚀 节点选择
 custom_proxy_group=🛑 广告拦截`select`[]REJECT`[]DIRECT
 custom_proxy_group=🍃 应用净化`select`[]REJECT`[]DIRECT
@@ -60,7 +58,6 @@ custom_proxy_group=🇰🇷 韩国节点`select`(韩国)
 custom_proxy_group=🇸🇬 狮城节点`select`(新加坡)
 custom_proxy_group=🇺🇲 美国节点`select`(美国)
 custom_proxy_group=🇺🇳 其它节点`select`(英国|俄罗斯)
-custom_proxy_group=🎥 奈飞节点`select`(原生)
 ;设置分组标志位
 
 enable_rule_generator=true
