@@ -58,7 +58,7 @@ custom_proxy_group=🇰🇷 韩国节点`select`^((?!.*(IPLC|IEPL)).)*(韩国)((
 custom_proxy_group=🇸🇬 狮城节点`select`^((?!.*(IPLC|IEPL)).)*(新加坡)((?!.*(IPLC|IEPL)).)*$
 custom_proxy_group=🇺🇲 美国节点`select`^((?!.*(IPLC|IEPL)).)*(美)((?!.*(IPLC|IEPL)).)*$
 custom_proxy_group=🇺🇳 其它节点`select`^((?!.*(IPLC|IEPL)).)*(印度|阿根廷)((?!.*(IPLC|IEPL)).)*$
-custom_proxy_group=🎥 原生节点`select`^((?!.*(IPLC|IEPL)).)*(流媒体|原生|netflix)((?!.*(IPLC|IEPL)).)*$
+custom_proxy_group=🎥 原生节点`select`^((?!.*(IPLC|IEPL)).)*(流媒体|原生|Netflix|netflix|台湾)((?!.*(IPLC|IEPL)).)*$
 custom_proxy_group=⚡️ 专线节点`select`(IEPL|IPLC)
 ;设置分组标志位
 
