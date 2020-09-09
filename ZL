@@ -51,14 +51,14 @@ custom_proxy_group=🍃 应用净化`select`[]REJECT`[]DIRECT
 custom_proxy_group=🆎 AdBlock`select`[]REJECT`[]DIRECT
 custom_proxy_group=🛡️ 隐私防护`select`[]REJECT`[]DIRECT
 custom_proxy_group=🐟 漏网之鱼`select`[]🚀 节点选择`[]DIRECT`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇰🇷 韩国节点`[]🇸🇬 狮城节点`[]🇺🇲 美国节点`[]🇺🇳 其它节点`[]🎥 原生节点`[]⚡️ 专线节点`[]🚀 手动切换
-custom_proxy_group=🇭🇰 香港节点`select`^((?!IPLC|IEPL).)*(香港)
-custom_proxy_group=🇨🇳 台湾节点`select`^((?!IPLC|IEPL).)*(台湾)
-custom_proxy_group=🇯🇵 日本节点`select`^((?!IPLC|IEPL).)*(日本)
-custom_proxy_group=🇰🇷 韩国节点`select`^((?!IPLC|IEPL).)*(韩国)
-custom_proxy_group=🇸🇬 狮城节点`select`^((?!IPLC|IEPL).)*(新加坡)
-custom_proxy_group=🇺🇲 美国节点`select`^((?!IPLC|IEPL).)*(美)
-custom_proxy_group=🇺🇳 其它节点`select`^((?!IPLC|IEPL).)*(印度|阿根廷)
-custom_proxy_group=🎥 原生节点`select`^((?!IPLC|IEPL).)*(流媒体|原生|netflix)
+custom_proxy_group=🇭🇰 香港节点`select`^((?!IPLC|?!IEPL).)*(香港)
+custom_proxy_group=🇨🇳 台湾节点`select`^((?!IPLC|?!IEPL).)*(台湾)
+custom_proxy_group=🇯🇵 日本节点`select`^((?!IPLC|?!IEPL).)*(日本)
+custom_proxy_group=🇰🇷 韩国节点`select`^((?!IPLC|?!IEPL).)*(韩国)
+custom_proxy_group=🇸🇬 狮城节点`select`^((?!IPLC|?!IEPL).)*(新加坡)
+custom_proxy_group=🇺🇲 美国节点`select`^((?!IPLC|?!IEPL).)*(美)
+custom_proxy_group=🇺🇳 其它节点`select`^((?!IPLC|?!IEPL).)*(印度|阿根廷)
+custom_proxy_group=🎥 原生节点`select`^((?!IPLC|?!IEPL).)*(流媒体|原生|netflix)
 custom_proxy_group=⚡️ 专线节点`select`(IEPL|IPLC)
 ;设置分组标志位
 
